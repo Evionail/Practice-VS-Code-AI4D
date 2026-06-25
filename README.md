@@ -4,7 +4,7 @@
 
 `Python` · `Pygame` · **sin assets externos** (todo es procedural) · un único archivo
 
-![Gameplay de Kepler's Wake](https://raw.githubusercontent.com/Evionail/Practice-VS-Code-AI4D/main/preview.gif)
+![Gameplay de Kepler's Wake](preview.gif)
 
 ---
 
